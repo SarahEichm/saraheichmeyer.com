@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  23 APR 2020 22:43
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  25 APR 2020 15:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -724,7 +724,7 @@ Overfull \hbox (1.10942pt too wide) in paragraph at lines 144--152
 [2] (./CV.aux) ) 
 Here is how much of TeX's memory you used:
  10306 strings out of 492616
- 160774 string characters out of 6129482
+ 160776 string characters out of 6129482
  316149 words of memory out of 5000000
  13928 multiletter control sequences out of 15000+600000
  36037 words of font info for 57 fonts, out of 8000000 for 9000
@@ -735,7 +735,7 @@ c}</usr/local/texlive/2019/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/lo
 cal/texlive/2019/texmf-dist/fonts/type1/public/lm/lmcsc10.pfb></usr/local/texli
 ve/2019/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2019/tex
 mf-dist/fonts/type1/public/lm/lmri10.pfb>
-Output written on CV.pdf (2 pages, 101489 bytes).
+Output written on CV.pdf (2 pages, 101516 bytes).
 PDF statistics:
  28 PDF objects out of 1000 (max. 8388607)
  19 compressed objects within 1 object stream
