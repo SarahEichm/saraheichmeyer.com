@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  26 DEC 2020 19:27
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  10 NOV 2020 11:48
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**CV.tex
-(./CV.tex
+**CV_M.tex
+(./CV_M.tex
 LaTeX2e <2018-12-01>
 (/usr/local/texlive/2019/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
@@ -564,8 +564,8 @@ LaTeX Info: Redefining \cite on input line 694.
 )
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
- (./CV.aux)
-\openout1 = `CV.aux'.
+ (./CV_M.aux)
+\openout1 = `CV_M.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 52.
 LaTeX Font Info:    ... okay on input line 52.
@@ -717,21 +717,21 @@ Package microtype Info: Character `029' is missing
  [1
 
 {/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] (./
-CV.aux) ) 
+CV_M.aux) ) 
 Here is how much of TeX's memory you used:
- 10310 strings out of 492616
- 160818 string characters out of 6129482
- 316149 words of memory out of 5000000
+ 10304 strings out of 492616
+ 160772 string characters out of 6129482
+ 316151 words of memory out of 5000000
  13928 multiletter control sequences out of 15000+600000
- 36250 words of font info for 59 fonts, out of 8000000 for 9000
+ 35954 words of font info for 56 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 65i,8n,106p,1191b,178s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}</usr
-/local/texlive/2019/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/tex
-live/2019/texmf-dist/fonts/type1/public/lm/lmcsc10.pfb></usr/local/texlive/2019
-/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2019/texmf-dist
-/fonts/type1/public/lm/lmri10.pfb>
-Output written on CV.pdf (2 pages, 103846 bytes).
+ 65i,6n,106p,1193b,178s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}</u
+sr/local/texlive/2019/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/t
+exlive/2019/texmf-dist/fonts/type1/public/lm/lmcsc10.pfb></usr/local/texlive/20
+19/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2019/texmf-di
+st/fonts/type1/public/lm/lmri10.pfb>
+Output written on CV_M.pdf (2 pages, 101666 bytes).
 PDF statistics:
  28 PDF objects out of 1000 (max. 8388607)
  19 compressed objects within 1 object stream
