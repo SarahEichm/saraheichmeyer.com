@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  30 DEC 2020 13:12
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  7 JAN 2021 16:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -714,27 +714,41 @@ File: mt-eur.cfg 2006/07/31 v1.1 microtype config. file: AMS Euler Roman (RS)
 Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/lmr/m/sc/10.95'.
 (microtype)             Ignoring protrusion settings for this character.
- [1
 
-{/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] (./
-CV.aux) ) 
+Underfull \hbox (badness 10000) in paragraph at lines 79--80
+
+ []
+
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10> on input line 96.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <7> on input line 96.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <5> on input line 96.
+Package microtype Info: Character `029' is missing
+(microtype)             in font `T1/lmr/m/sc/10'.
+(microtype)             Ignoring protrusion settings for this character.
+[1
+
+{/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+[2] (./CV.aux) ) 
 Here is how much of TeX's memory you used:
- 10310 strings out of 492616
- 160818 string characters out of 6129482
- 316149 words of memory out of 5000000
- 13928 multiletter control sequences out of 15000+600000
- 36250 words of font info for 59 fonts, out of 8000000 for 9000
+ 10392 strings out of 492616
+ 162023 string characters out of 6129482
+ 317149 words of memory out of 5000000
+ 13986 multiletter control sequences out of 15000+600000
+ 56585 words of font info for 91 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 65i,8n,106p,1191b,178s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}</usr
-/local/texlive/2019/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/tex
-live/2019/texmf-dist/fonts/type1/public/lm/lmcsc10.pfb></usr/local/texlive/2019
-/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2019/texmf-dist
-/fonts/type1/public/lm/lmri10.pfb>
-Output written on CV.pdf (2 pages, 103646 bytes).
+ 65i,6n,106p,1191b,178s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/lm/lm-ec.en
+c}</usr/local/texlive/2019/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/lo
+cal/texlive/2019/texmf-dist/fonts/type1/public/lm/lmcsc10.pfb></usr/local/texli
+ve/2019/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2019/tex
+mf-dist/fonts/type1/public/lm/lmri10.pfb>
+Output written on CV.pdf (2 pages, 104171 bytes).
 PDF statistics:
  28 PDF objects out of 1000 (max. 8388607)
  19 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 10241 words of extra memory for PDF output out of 12000 (max. 10000000)
+ 17409 words of extra memory for PDF output out of 20736 (max. 10000000)
 
