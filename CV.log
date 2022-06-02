@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  20 MAY 2022 14:02
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  2 JUN 2022 10:05
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -768,45 +768,45 @@ Package caption Info: End \AtBeginDocument code.
 (/usr/local/texlive/2019/texmf-dist/tex/latex/jknapltx/ursfs.fd)
 (/usr/local/texlive/2019/texmf-dist/tex/latex/wasysym/uwasy.fd)
 (/usr/local/texlive/2019/texmf-dist/tex/latex/microtype/mt-eur.cfg)
-Underfull \hbox (badness 10000) in paragraph at lines 95--99
+Underfull \hbox (badness 10000) in paragraph at lines 94--98
 
  []
 
 
-Overfull \hbox (4.63303pt too wide) in paragraph at lines 125--125
+Overfull \hbox (4.63303pt too wide) in paragraph at lines 124--124
 []|$[]$|  
  []
 
 
-Overfull \hbox (5.5681pt too wide) in paragraph at lines 125--125
+Overfull \hbox (5.5681pt too wide) in paragraph at lines 124--124
 []|$[]$|  
  []
 
 
-Underfull \hbox (badness 10000) in alignment at lines 125--125
+Underfull \hbox (badness 10000) in alignment at lines 124--124
 [][] 
  []
 
 
-Overfull \hbox (4.03384pt too wide) in paragraph at lines 172--172
+Overfull \hbox (4.03384pt too wide) in paragraph at lines 171--171
 []|$[]$|  
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 172--174
+Underfull \hbox (badness 10000) in paragraph at lines 171--173
 
  []
 
 [1
 
 {/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 177.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 176.
 
 [2]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 177.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 176.
  (./CV.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 177.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 177.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 176.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 176.
 Package rerunfilecheck Info: File `CV.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
@@ -825,7 +825,7 @@ exmf-dist/fonts/type1/public/lm/lmbx9.pfb></usr/local/texlive/2019/texmf-dist/f
 onts/type1/public/lm/lmr10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/
 public/lm/lmr9.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/lm/lm
 ri9.pfb>
-Output written on CV.pdf (2 pages, 129895 bytes).
+Output written on CV.pdf (2 pages, 129732 bytes).
 PDF statistics:
  43 PDF objects out of 1000 (max. 8388607)
  32 compressed objects within 1 object stream
