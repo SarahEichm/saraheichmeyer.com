@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.8.9)  18 MAR 2023 15:01
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.8.9)  18 MAR 2023 15:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -838,17 +838,17 @@ Underfull \hbox (badness 10000) in alignment at lines 124--124
  []
 
 
-Overfull \hbox (5.34964pt too wide) in paragraph at lines 173--173
+Overfull \hbox (5.34964pt too wide) in paragraph at lines 174--174
 []|$[]$|  
  []
 
 
-Underfull \hbox (badness 10000) in alignment at lines 173--173
+Underfull \hbox (badness 10000) in alignment at lines 174--174
 [][][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 173--175
+Underfull \hbox (badness 10000) in paragraph at lines 174--176
 
  []
 
@@ -862,7 +862,7 @@ Package rerunfilecheck Info: File `CV.out' has not changed.
 Here is how much of TeX's memory you used:
  18886 strings out of 478268
  315977 string characters out of 5846348
- 714736 words of memory out of 5000000
+ 715736 words of memory out of 5000000
  36662 multiletter control sequences out of 15000+600000
  506945 words of font info for 95 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -874,7 +874,7 @@ st/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2022/texmf-dist/fonts/ty
 pe1/public/lm/lmr9.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/l
 m/lmri9.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/wasy-type1/w
 asy9.pfb>
-Output written on CV.pdf (2 pages, 132137 bytes).
+Output written on CV.pdf (2 pages, 131478 bytes).
 PDF statistics:
  49 PDF objects out of 1000 (max. 8388607)
  32 compressed objects within 1 object stream
