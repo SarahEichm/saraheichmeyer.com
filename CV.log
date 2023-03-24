@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.8.9)  18 MAR 2023 15:08
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.8.9)  24 MAR 2023 17:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -817,34 +817,11 @@ Package caption Info: End \AtBeginDocument code.
 (/usr/local/texlive/2022/texmf-dist/tex/latex/microtype/mt-msb.cfg)
 (/usr/local/texlive/2022/texmf-dist/tex/latex/jknapltx/ursfs.fd)
 (/usr/local/texlive/2022/texmf-dist/tex/latex/wasysym/uwasy.fd)
-(/usr/local/texlive/2022/texmf-dist/tex/latex/microtype/mt-eur.cfg)
-Underfull \hbox (badness 10000) in paragraph at lines 94--98
+(/usr/local/texlive/2022/texmf-dist/tex/latex/microtype/mt-eur.cfg) [1
 
- []
+{/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+Underfull \hbox (badness 10000) in paragraph at lines 162--164
 
-
-Overfull \hbox (4.63303pt too wide) in paragraph at lines 124--124
-[]|$[]$|  
- []
-
-
-Overfull \hbox (5.5681pt too wide) in paragraph at lines 124--124
-[]|$[]$|  
- []
-
-
-Underfull \hbox (badness 10000) in alignment at lines 124--124
-[][] 
- []
-
-
-Overfull \hbox (5.34964pt too wide) in paragraph at lines 174--174
-[]|$[]$|  
- []
-
-
-Underfull \hbox (badness 10000) in alignment at lines 174--174
-[][][] 
  []
 
 
@@ -852,32 +829,43 @@ Underfull \hbox (badness 10000) in paragraph at lines 174--176
 
  []
 
-[1
 
-{/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-[2] (./CV.aux)
+Underfull \hbox (badness 10000) in paragraph at lines 188--190
+
+ []
+
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 203--205
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 218--220
+
+ []
+
+[3] (./CV.aux)
 Package rerunfilecheck Info: File `CV.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 18886 strings out of 478268
- 315977 string characters out of 5846348
- 715736 words of memory out of 5000000
- 36662 multiletter control sequences out of 15000+600000
- 506945 words of font info for 95 fonts, out of 8000000 for 9000
+ 18891 strings out of 478268
+ 316174 string characters out of 5846348
+ 693736 words of memory out of 5000000
+ 36660 multiletter control sequences out of 15000+600000
+ 504387 words of font info for 99 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 108i,11n,131p,1191b,451s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 108i,8n,131p,1191b,452s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}</usr/local/
-texlive/2022/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texlive/20
-22/texmf-dist/fonts/type1/public/lm/lmbx9.pfb></usr/local/texlive/2022/texmf-di
-st/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2022/texmf-dist/fonts/ty
-pe1/public/lm/lmr9.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/l
-m/lmri9.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/wasy-type1/w
-asy9.pfb>
-Output written on CV.pdf (2 pages, 131478 bytes).
+texlive/2022/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></usr/local/texlive/20
+22/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texlive/2022/texmf-d
+ist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2022/texmf-dist/fonts/t
+ype1/public/lm/lmri10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/publi
+c/wasy-type1/wasy10.pfb>
+Output written on CV.pdf (3 pages, 117649 bytes).
 PDF statistics:
- 49 PDF objects out of 1000 (max. 8388607)
+ 48 PDF objects out of 1000 (max. 8388607)
  32 compressed objects within 1 object stream
- 3 named destinations out of 1000 (max. 500000)
- 18433 words of extra memory for PDF output out of 20736 (max. 10000000)
+ 4 named destinations out of 1000 (max. 500000)
+ 16385 words of extra memory for PDF output out of 17280 (max. 10000000)
 
