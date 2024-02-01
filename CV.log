@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.8.9)  29 NOV 2023 12:16
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.8.9)  1 FEB 2024 07:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -862,11 +862,11 @@ Package rerunfilecheck Info: File `CV.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 19250 strings out of 478268
- 322827 string characters out of 5846348
+ 19248 strings out of 478268
+ 322803 string characters out of 5846348
  703269 words of memory out of 5000000
  37017 multiletter control sequences out of 15000+600000
- 504373 words of font info for 97 fonts, out of 8000000 for 9000
+ 504243 words of font info for 96 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  108i,8n,131p,1191b,575s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}{/usr/local
@@ -876,7 +876,7 @@ texmf-dist/fonts/type1/public/lm/lmbx10.pfb></usr/local/texlive/2022/texmf-dist
 e1/public/lm/lmr10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/l
 m/lmri10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/wasy-type1/
 wasy10.pfb>
-Output written on CV.pdf (3 pages, 119434 bytes).
+Output written on CV.pdf (3 pages, 119436 bytes).
 PDF statistics:
  52 PDF objects out of 1000 (max. 8388607)
  35 compressed objects within 1 object stream
