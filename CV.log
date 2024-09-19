@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.8.9)  9 SEP 2024 13:54
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.8.9)  19 SEP 2024 10:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -838,22 +838,22 @@ File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 ) [1
 
 {/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 165--167
+Underfull \hbox (badness 10000) in paragraph at lines 166--168
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 177--179
+Underfull \hbox (badness 10000) in paragraph at lines 178--180
 
  []
 
 [2]
-Underfull \hbox (badness 10000) in paragraph at lines 211--213
+Underfull \hbox (badness 10000) in paragraph at lines 212--214
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 226--228
+Underfull \hbox (badness 10000) in paragraph at lines 227--229
 
  []
 
@@ -876,7 +876,7 @@ texmf-dist/fonts/type1/public/lm/lmbx10.pfb></usr/local/texlive/2022/texmf-dist
 e1/public/lm/lmr10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/l
 m/lmri10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/wasy-type1/
 wasy10.pfb>
-Output written on CV.pdf (3 pages, 119882 bytes).
+Output written on CV.pdf (3 pages, 119884 bytes).
 PDF statistics:
  52 PDF objects out of 1000 (max. 8388607)
  35 compressed objects within 1 object stream
