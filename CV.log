@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.8.9)  14 OCT 2024 12:46
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.8.9)  15 OCT 2024 16:00
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -852,11 +852,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 212--214
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 227--229
-
- []
-
 [3] (./CV.aux)
 Package rerunfilecheck Info: File `CV.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
@@ -876,7 +871,7 @@ texmf-dist/fonts/type1/public/lm/lmbx10.pfb></usr/local/texlive/2022/texmf-dist
 e1/public/lm/lmr10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/l
 m/lmri10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/wasy-type1/
 wasy10.pfb>
-Output written on CV.pdf (3 pages, 119903 bytes).
+Output written on CV.pdf (3 pages, 119198 bytes).
 PDF statistics:
  52 PDF objects out of 1000 (max. 8388607)
  35 compressed objects within 1 object stream
